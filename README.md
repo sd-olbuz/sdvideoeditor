@@ -106,5 +106,3 @@ videoEditor?.videoSpeed = 1.0
 SDVideoEditor is available under the MIT license. See the LICENSE file for more info. # sdvideoeditor
 # sdvideoeditor
 # sdvideoeditor
-# sdvideoeditor
-# sdvideoeditor
